@@ -1,6 +1,6 @@
 # SPIRITT Labs
 
-SPIRITT Labs is the AI research lab behind [SPIRITT](https://spiritt.ai) (often searched as Spirit AI).
+SPIRITT Labs is the AI research lab behind [SPIRITT](https://spiritt.ai).
 
 SPIRITT is the operating system for AI transformation: autonomous AI agents that code, ship and run sales, ops, admin and engineering work end to end, with shared context across the whole company.
 
